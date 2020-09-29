@@ -1,0 +1,1 @@
+ninja: Entering directory `C:\Users\malik\Desktop\Android_Programs\Personal\FaceApp\app\.cxx\cmake\debug\x86_64'

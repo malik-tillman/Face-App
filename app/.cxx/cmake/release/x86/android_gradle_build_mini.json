@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "C:\\Users\\malik\\Desktop\\Libs_and_Jars\\Android_SDK\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\malik\\Desktop\\Android_Programs\\Personal\\FaceApp\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\malik\\Desktop\\Libs_and_Jars\\Android_SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\malik\\Desktop\\Android_Programs\\Personal\\FaceApp\\app\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\malik\\Desktop\\Libs_and_Jars\\Android_SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\malik\\Desktop\\Android_Programs\\Personal\\FaceApp\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\malik\\Desktop\\Libs_and_Jars\\Android_SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\malik\\Desktop\\Android_Programs\\Personal\\FaceApp\\app\\.cxx\\cmake\\release\\x86\" native-lib",
+      "abi": "x86",
+      "output": "C:\\Users\\malik\\Desktop\\Android_Programs\\Personal\\FaceApp\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": [
+        "C:\\Users\\malik\\Desktop\\Libs_and_Jars\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86\\libgnustl_static.a"
+      ]
+    }
+  }
+}

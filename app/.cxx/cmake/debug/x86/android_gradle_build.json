@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "C:/Users/malik/Desktop/Android_Programs/Personal/FaceApp/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android --gcc-toolchain=C:/Users/malik/Desktop/Libs_and_Jars/Android_SDK/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/malik/Desktop/Libs_and_Jars/Android_SDK/ndk-bundle/sysroot -Dnative_lib_EXPORTS -IC:/Users/malik/Desktop/Libs_and_Jars/OpenCV/OpenCV-android-sdk/sdk/native/jni/include -isystem C:/Users/malik/Desktop/Libs_and_Jars/Android_SDK/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem C:/Users/malik/Desktop/Libs_and_Jars/Android_SDK/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem C:/Users/malik/Desktop/Libs_and_Jars/Android_SDK/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward -isystem C:/Users/malik/Desktop/Libs_and_Jars/Android_SDK/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=24 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\malik\\Desktop\\Libs_and_Jars\\Android_SDK\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\malik\\Desktop\\Android_Programs\\Personal\\FaceApp\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\malik\\Desktop\\Libs_and_Jars\\Android_SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\malik\\Desktop\\Android_Programs\\Personal\\FaceApp\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\malik\\Desktop\\Libs_and_Jars\\Android_SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\malik\\Desktop\\Android_Programs\\Personal\\FaceApp\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "buildCommand": "C:\\Users\\malik\\Desktop\\Libs_and_Jars\\Android_SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\malik\\Desktop\\Android_Programs\\Personal\\FaceApp\\app\\.cxx\\cmake\\debug\\x86\" native-lib",
+      "buildType": "debug",
+      "toolchain": "2037718663",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "C:\\Users\\malik\\Desktop\\Android_Programs\\Personal\\FaceApp\\app\\src\\main\\cpp\\native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\malik\\Desktop\\Android_Programs\\Personal\\FaceApp\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": [
+        "C:\\Users\\malik\\Desktop\\Android_Programs\\Personal\\FaceApp\\app\\src\\main\\jniLibs\\x86\\libopencv_java3.so",
+        "C:\\Users\\malik\\Desktop\\Libs_and_Jars\\Android_SDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86\\libgnustl_static.a"
+      ]
+    }
+  },
+  "toolchains": {
+    "2037718663": {
+      "cppCompilerExecutable": "C:\\Users\\malik\\Desktop\\Libs_and_Jars\\Android_SDK\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/malik/Desktop/Android_Programs/Personal/FaceApp/app/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\malik\\Desktop\\Libs_and_Jars\\Android_SDK\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android --gcc-toolchain=C:/Users/malik/Desktop/Libs_and_Jars/Android_SDK/ndk-bundle/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/malik/Desktop/Libs_and_Jars/Android_SDK/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -IC:/Users/malik/Desktop/Libs_and_Jars/OpenCV/OpenCV-android-sdk/sdk/native/jni/include -isystem C:/Users/malik/Desktop/Libs_and_Jars/Android_SDK/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem C:/Users/malik/Desktop/Libs_and_Jars/Android_SDK/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64/include -isystem C:/Users/malik/Desktop/Libs_and_Jars/Android_SDK/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem C:/Users/malik/Desktop/Libs_and_Jars/Android_SDK/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=24 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\src\\main\\cpp\\native-lib.cpp.o -c C:\\Users\\malik\\Desktop\\Android_Programs\\Personal\\FaceApp\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "C:/Users/malik/Desktop/Android_Programs/Personal/FaceApp/app/src/main/cpp/native-lib.cpp"
+}
+]

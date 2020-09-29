@@ -1,0 +1,22 @@
+ninja: Entering directory `C:\Users\malik\Desktop\Android_Programs\Personal\FaceApp\app\.cxx\cmake\debug\armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o
+../../../../src/main/cpp/native-lib.cpp:34:19: warning: 'auto' type specifier is a C++11 extension [-Wc++11-extensions]
+        for(const auto & kp : v)
+                  ^
+../../../../src/main/cpp/native-lib.cpp:34:29: warning: range-based for loop is a C++11 extension [-Wc++11-extensions]
+        for(const auto & kp : v)
+                            ^
+../../../../src/main/cpp/native-lib.cpp:90:20: warning: 'auto' type specifier is a C++11 extension [-Wc++11-extensions]
+        for (const auto& face : faces)
+                   ^
+../../../../src/main/cpp/native-lib.cpp:90:31: warning: range-based for loop is a C++11 extension [-Wc++11-extensions]
+        for (const auto& face : faces)
+                              ^
+../../../../src/main/cpp/native-lib.cpp:128:28: warning: 'auto' type specifier is a C++11 extension [-Wc++11-extensions]
+                for (const auto& nr : nestedObjects)
+                           ^
+../../../../src/main/cpp/native-lib.cpp:128:37: warning: range-based for loop is a C++11 extension [-Wc++11-extensions]
+                for (const auto& nr : nestedObjects)
+                                    ^
+6 warnings generated.
+[2/2] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\armeabi-v7a\libnative-lib.so
